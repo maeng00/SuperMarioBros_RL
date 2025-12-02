@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/830d617a-3f18-4c90-a49e-5e31931b38c3" width="100%"/>
+<!-- <img src="https://github.com/user-attachments/assets/830d617a-3f18-4c90-a49e-5e31931b38c3" width="100%"/> -->
 
 # 강화학습 Final Project - "Super Mario Bros. RL": 강화학습으로 슈퍼마리오 게임하기
 <img src="https://github.com/user-attachments/assets/d1ab96f1-cd6e-402c-b21a-52c84297ecad" width="300px"/>
